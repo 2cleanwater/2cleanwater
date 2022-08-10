@@ -20,7 +20,6 @@
 
 
 
-
 ### 💪 Skills
 #### Platforms & Languages
 <p>
