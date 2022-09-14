@@ -10,6 +10,7 @@
 
 
 
+
 <p>
   👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
   I have experience 7 years of Android development and 2 years of iOS development.<br/>
