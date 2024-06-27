@@ -5,7 +5,7 @@
 ### - Developing with React & Typescript
 ### - Currently studying Jest & React-Query
 
-### 🔑 Notion : https://url.kr/9jrbud
+### 🔑 Notion : [https://url.kr/9jrbud](http://2cleanwater.notion.site)
 <br/>
 
 # 💻 Tech Stack:
